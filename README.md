@@ -47,6 +47,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Precision and Recall at K | Compute recommendation precision and recall at K by comparing ranked predictions with relevant items. | https://www.tensortonic.com/problems/precision-recall-at-k |
 | Random Forest Majority Vote | Combine multiple decision-tree predictions with majority voting and deterministic handling of tied classes. | https://www.tensortonic.com/problems/random-forest-vote |
 | Ridge Regression | Fit ridge regression with L2 regularization using the closed-form solution required by the problem. | https://www.tensortonic.com/problems/ridge-regression |
+| Seasonal Average | Estimate seasonal averages by grouping time-series observations at the same position in each period. | https://www.tensortonic.com/problems/seasonal-average |
 | Implement Sigmoid in NumPy | Implement a vectorized sigmoid activation in NumPy for scalars, lists, vectors, and matrices, including large positive and negative inputs. | https://www.tensortonic.com/problems/sigmoid-numpy |
 | Simple Moving Average | Compute the simple moving average over complete fixed-size windows of a numeric time series. | https://www.tensortonic.com/problems/simple-moving-average |
 
