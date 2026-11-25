@@ -22,6 +22,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Problem | Description | Link |
 |---|---|---|
 | Implement Adam Optimizer Step | Implement one vectorized Adam optimizer step in NumPy with first and second moments, bias correction, and elementwise parameter updates. | https://www.tensortonic.com/problems/adam-optimizer |
+| Find a Go Group and Its Liberties | Trace the orthogonally connected stones containing one occupied board point and collect every distinct empty intersection adjacent to that group. | https://www.tensortonic.com/problems/alphago-l01-group-liberties |
 | Initialize Legal MCTS Edge Statistics | A newly expanded search node receives one edge for every action, but only legal actions receive prior mass. | https://www.tensortonic.com/problems/alphago-l03-initialize-edge-statistics |
 | Anchor Box Generation | Generate object-detection anchor boxes across a feature grid for every scale and aspect-ratio combination. | https://www.tensortonic.com/problems/anchor-box-generation |
 | Compute AUC (Area Under ROC) | Calculate binary-classification ROC AUC from false-positive and true-positive rates using trapezoidal integration. | https://www.tensortonic.com/problems/auc |
